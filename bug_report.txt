@@ -1,1 +1,15 @@
-
+ID	1
+Описание	
+Поле "пароль" на форме регистрации принимает более 20 символов
+Предусовие:	
+"1. Перейти на хост ""https://anatoly-karpovich.github.io/demo-login-form/"".
+2. Пользователь не зарегестрирован"
+Шаги воспроизведения:	
+"1. Клик кнопка ""Register""
+2. Ввести в поле ""Username"" валидное значение
+3. Ввести в поле ""Password"" более 20 символов(например: ""AntonAntonAntonAntonA"")"
+Ожидаемый результат:	Пользователь не зарегестрирован, появился текст "The password must contain no more than 20 characters"
+Фактический результтат:	Пользователь зарегестрирован, появился текст "Successfully registered!Please, click Back to return on login page"
+Скриншот/скринкаст 	тут должен быть скрин фактического результата)
+Ссылка на хост:	https://anatoly-karpovich.github.io/demo-login-form/
+Окружение:	Safari Версия 17.5
