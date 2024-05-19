@@ -1,1 +1,4 @@
-new file for git
+Sablukov Anton
+Age 36
+One dog
+Salary xylion
